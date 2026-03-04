@@ -243,7 +243,7 @@ export const AgentSwarmBuildScreen: React.FC = () => {
       <div
         style={{
           position: "absolute",
-          top: 130,
+          top: 90,
           left: 0,
           right: 0,
           textAlign: "center",
@@ -260,7 +260,7 @@ export const AgentSwarmBuildScreen: React.FC = () => {
       <div
         style={{
           position: "absolute",
-          top: 290,
+          top: 250,
           left: 160,
           right: 160,
           height: 250,
@@ -274,7 +274,7 @@ export const AgentSwarmBuildScreen: React.FC = () => {
       <div
         style={{
           position: "absolute",
-          top: 290,
+          top: 250,
           left: 160,
           right: 160,
           height: 250,
@@ -289,7 +289,7 @@ export const AgentSwarmBuildScreen: React.FC = () => {
       <div
         style={{
           position: "absolute",
-          top: 296,
+          top: 256,
           left: 166,
           right: 166,
           height: 238,
@@ -392,7 +392,7 @@ export const AgentSwarmBuildScreen: React.FC = () => {
       <div
         style={{
           position: "absolute",
-          top: 565,
+          top: 525,
           left: 255,
           right: 255,
           display: "flex",
@@ -409,7 +409,7 @@ export const AgentSwarmBuildScreen: React.FC = () => {
       <div
         style={{
           position: "absolute",
-          top: 635,
+          top: 595,
           left: 250,
           right: 250,
           display: "flex",
@@ -441,7 +441,7 @@ export const AgentSwarmBuildScreen: React.FC = () => {
       <div
         style={{
           position: "absolute",
-          top: 710,
+          top: 670,
           left: 210,
           color: "rgba(255,255,255,0.55)",
           fontSize: 26,
@@ -455,7 +455,7 @@ export const AgentSwarmBuildScreen: React.FC = () => {
       <div
         style={{
           position: "absolute",
-          top: 760,
+          top: 720,
           left: 210,
           right: 210,
           display: "flex",
