@@ -254,7 +254,7 @@ export const AgentSwarmBuildScreen: React.FC = () => {
           textShadow: "0 18px 40px rgba(0,0,0,0.55)",
         }}
       >
-        What should we build?
+        Let's build something
       </div>
 
       <div
