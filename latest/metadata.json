@@ -52,5 +52,17 @@
   "snapshotId": "1772629220853-2015a368",
   "commitName": "generation: Generated initial animation code.",
   "assetPaths": [],
-  "savedAtIso": "2026-03-04T13:00:21.148Z"
+  "savedAtIso": "2026-03-04T13:00:37.193Z",
+  "scenes": [
+    {
+      "id": "fecc501e-4695-4566-ba1f-d9faf58fcfae",
+      "projectId": "github.com-dumitruPuggle-make-an-demo-video-of-our-202603041459",
+      "name": "Scene 1",
+      "durationInFrames": 240,
+      "createdAt": 1772629221947,
+      "updatedAt": 1772629221947
+    }
+  ],
+  "selectedSceneId": "fecc501e-4695-4566-ba1f-d9faf58fcfae",
+  "updatedAt": "2026-03-04T13:00:37.193Z"
 }
