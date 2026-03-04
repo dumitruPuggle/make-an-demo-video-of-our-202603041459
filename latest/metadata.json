@@ -1,0 +1,56 @@
+{
+  "projectName": "make-an-demo-video-of-our-202603041459",
+  "prompt": "Make an demo video of our new AI Workflow builder feature. Show Text “Introducing” “The AI Workflow Builder”",
+  "summary": "Generated initial animation code.",
+  "timestamp": 1772629220853,
+  "model": "gpt-5.2",
+  "skills": [
+    "typography",
+    "transitions"
+  ],
+  "conversationMessages": [
+    {
+      "id": "user-1772629162710",
+      "role": "user",
+      "content": "Make an demo video of our new AI Workflow builder feature. Show Text “Introducing” “The AI Workflow Builder”",
+      "timestamp": 1772629162710
+    },
+    {
+      "id": "assistant-1772629220853",
+      "role": "assistant",
+      "content": "Generated initial animation code.",
+      "timestamp": 1772629220853,
+      "metadata": {
+        "skills": [
+          "typography",
+          "transitions"
+        ],
+        "edit_type": "full_replacement",
+        "model": "gpt-5.2",
+        "edits": null,
+        "imported_interface": null,
+        "attached_image_urls": [],
+        "imported_scene_graph": null,
+        "format": "landscape",
+        "font_family": "Inter, sans-serif",
+        "template_id": null,
+        "scenes": null,
+        "selected_scene_id": null,
+        "persistence": null,
+        "timing": {
+          "parallel_prep_ms": 2860.1169229999923,
+          "generate_initial_ms": 53552.950213000004,
+          "response_build_ms": 0.12250899999344256
+        },
+        "fast_path_used": false
+      }
+    }
+  ],
+  "attachedImageUrls": [],
+  "fontFamily": "Inter, sans-serif",
+  "format": "landscape",
+  "snapshotId": "1772629220853-2015a368",
+  "commitName": "generation: Generated initial animation code.",
+  "assetPaths": [],
+  "savedAtIso": "2026-03-04T13:00:21.148Z"
+}
